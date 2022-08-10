@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "71514218469",
+    "project_id": "avilestrack",
+    "storage_bucket": "avilestrack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71514218469:android:3743e01a1964baf8a3d90c",
+        "android_client_info": {
+          "package_name": "com.avilestrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71514218469-09p8eba86inaphf37fve3eubq56oio20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ7yHzH5dK6WM6B1VWYzdVbDYuN6sI-qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71514218469-09p8eba86inaphf37fve3eubq56oio20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

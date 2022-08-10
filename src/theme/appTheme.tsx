@@ -85,4 +85,13 @@ export const globalTheme = StyleSheet.create({
         justifyContent: 'center',
         alignItems: "center",
     },
+    primaryButtomSmOutLine: {
+        height: 25,
+        borderRadius: 20,
+        borderColor: PRIMARY_COLOR,
+        borderWidth: 1,
+        width: 125,
+        justifyContent: 'center',
+        alignItems: "center",
+    },
 });
